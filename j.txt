@@ -1,0 +1,11 @@
+https://extensions.gnome.org/
+https://extensions.gnome.org/extension/19/user-themes/
+https://extensions.gnome.org/extension/2/move-clock/
+https://extensions.gnome.org/extension/1011/dynamic-panel-transparency/
+https://extensions.gnome.org/extension/3210/compiz-windows-effect/
+https://extensions.gnome.org/extension/708/panel-osd/
+
+https://www.pling.com/p/1403328/
+https://www.pling.com/p/1399044/
+https://www.pling.com/p/1355701/
+https://www.pling.com/p/1401527/
